@@ -1,0 +1,9 @@
+{
+    "name": "map_Athens_Triumphant",
+    "version": "0.0.1",
+    "label": "Athens Triumpant",
+    "url": "github.com/0ADMods/map_Athens_Triumphant",
+    "description": "This scenario is created with the purpose to get our scenario designers accustomed with the trigger functionality in 0 A.D. and deals with the Greco-Persian Wars.",
+    "dependencies": ["0ad"],
+    "type": "map"
+}

@@ -44,7 +44,7 @@
   "GameType": "endless",
   "Keywords": [],
   "LockTeams": false,
-  "Name": "Sample Triggers",
+  "Name": "Athens Triumphant",
   "PlayerData": [
     {
       "AI": "",
@@ -98,7 +98,11 @@
     }
   ],
   "Preview": "fractal.png",
-  "RevealMap": false
+  "RevealMap": false,
+    "TriggerScripts": [
+    "scripts/TriggerHelper.js",
+    "scenarios/Athens_Triumphant.js"
+  ]
 }
 ]]></ScriptSettings>
 	<Entities>

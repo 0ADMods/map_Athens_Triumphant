@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="893.788" y="214.063" z="1690.81"/>
-		<Rotation angle="-2.4377"/>
-		<Declination angle="0.610862"/>
+		<Position x="1000.87" y="119.188" z="1547.34"/>
+		<Rotation angle="-0.241275"/>
+		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -99,7 +99,7 @@
   ],
   "Preview": "fractal.png",
   "RevealMap": false,
-    "TriggerScripts": [
+  "TriggerScripts": [
     "scripts/TriggerHelper.js",
     "scenarios/Athens_Triumphant.js"
   ]
@@ -4129,7 +4129,7 @@
 		<Entity uid="789">
 			<Template>gaia/geology_stonemine_medit_quarry</Template>
 			<Player>0</Player>
-			<Position x="853.40296" z="1677.16651"/>
+			<Position x="845.90986" z="1708.76087"/>
 			<Orientation y="3.02424"/>
 		</Entity>
 		<Entity uid="796">
@@ -5200,49 +5200,49 @@
 		</Entity>
 		<Entity uid="976">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="862.60077" z="1726.98841"/>
+			<Position x="855.10767" z="1758.58277"/>
 			<Orientation y="-1.96177"/>
 			<Actor seed="15562"/>
 		</Entity>
 		<Entity uid="977">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="851.33765" z="1706.27149"/>
+			<Position x="843.84455" z="1737.86585"/>
 			<Orientation y="3.04371"/>
 			<Actor seed="36064"/>
 		</Entity>
 		<Entity uid="978">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="851.99598" z="1695.92115"/>
+			<Position x="844.50287" z="1727.51551"/>
 			<Orientation y="2.36309"/>
 			<Actor seed="43090"/>
 		</Entity>
 		<Entity uid="979">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="859.04822" z="1694.9148"/>
+			<Position x="851.55512" z="1726.50916"/>
 			<Orientation y="1.65996"/>
 			<Actor seed="7366"/>
 		</Entity>
 		<Entity uid="980">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="866.00782" z="1695.59974"/>
+			<Position x="858.51471" z="1727.1941"/>
 			<Orientation y="2.87325"/>
 			<Actor seed="11622"/>
 		</Entity>
 		<Entity uid="981">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="868.0641" z="1688.4762"/>
+			<Position x="860.57099" z="1720.07056"/>
 			<Orientation y="1.03533"/>
 			<Actor seed="60028"/>
 		</Entity>
 		<Entity uid="982">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="877.73823" z="1694.94031"/>
+			<Position x="870.24512" z="1726.53467"/>
 			<Orientation y="0.62105"/>
 			<Actor seed="48056"/>
 		</Entity>
 		<Entity uid="983">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="885.19105" z="1700.1941"/>
+			<Position x="877.69794" z="1731.78846"/>
 			<Orientation y="2.22498"/>
 			<Actor seed="11882"/>
 		</Entity>
@@ -5320,199 +5320,199 @@
 		</Entity>
 		<Entity uid="996">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="840.29969" z="1706.26465"/>
+			<Position x="832.80658" z="1737.85901"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="65022"/>
 		</Entity>
 		<Entity uid="997">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="836.13703" z="1701.17359"/>
+			<Position x="828.64393" z="1732.76795"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="64536"/>
 		</Entity>
 		<Entity uid="998">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="829.24695" z="1700.09473"/>
+			<Position x="821.75385" z="1731.6891"/>
 			<Orientation y="-2.65493"/>
 			<Actor seed="46766"/>
 		</Entity>
 		<Entity uid="999">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="826.37" z="1696.13697"/>
+			<Position x="818.8769" z="1727.73133"/>
 			<Orientation y="2.8175"/>
 			<Actor seed="32800"/>
 		</Entity>
 		<Entity uid="1000">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="831.87214" z="1689.84546"/>
+			<Position x="824.37903" z="1721.43982"/>
 			<Orientation y="1.13074"/>
 			<Actor seed="28820"/>
 		</Entity>
 		<Entity uid="1001">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="851.01636" z="1682.29212"/>
+			<Position x="843.52326" z="1713.88648"/>
 			<Orientation y="-1.62597"/>
 			<Actor seed="36798"/>
 		</Entity>
 		<Entity uid="1002">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="840.45081" z="1680.37378"/>
+			<Position x="832.95771" z="1711.96814"/>
 			<Orientation y="2.56493"/>
 			<Actor seed="23558"/>
 		</Entity>
 		<Entity uid="1003">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="848.93055" z="1673.8573"/>
+			<Position x="841.43744" z="1705.45167"/>
 			<Orientation y="2.29857"/>
 			<Actor seed="1968"/>
 		</Entity>
 		<Entity uid="1004">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="854.11854" z="1671.64026"/>
+			<Position x="846.62543" z="1703.23462"/>
 			<Orientation y="0.00849"/>
 			<Actor seed="43406"/>
 		</Entity>
 		<Entity uid="1005">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="852.05256" z="1680.41321"/>
+			<Position x="844.55945" z="1712.00757"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="53832"/>
 		</Entity>
 		<Entity uid="1006">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="854.90491" z="1684.07801"/>
+			<Position x="847.41181" z="1715.67237"/>
 			<Orientation y="2.28005"/>
 			<Actor seed="46724"/>
 		</Entity>
 		<Entity uid="1007">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="861.14954" z="1677.87818"/>
+			<Position x="853.65644" z="1709.47254"/>
 			<Orientation y="-3.05639"/>
 			<Actor seed="53878"/>
 		</Entity>
 		<Entity uid="1008">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="858.06458" z="1675.09339"/>
+			<Position x="850.57148" z="1706.68775"/>
 			<Orientation y="-1.72672"/>
 			<Actor seed="63748"/>
 		</Entity>
 		<Entity uid="1009">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="846.55958" z="1672.7046"/>
+			<Position x="839.06647" z="1704.29896"/>
 			<Orientation y="-1.78858"/>
 			<Actor seed="6418"/>
 		</Entity>
 		<Entity uid="1010">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="843.805" z="1670.75452"/>
+			<Position x="836.3119" z="1702.34888"/>
 			<Orientation y="2.67383"/>
 			<Actor seed="29986"/>
 		</Entity>
 		<Entity uid="1011">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="850.29633" z="1666.04004"/>
+			<Position x="842.80323" z="1697.6344"/>
 			<Orientation y="1.30976"/>
 			<Actor seed="17950"/>
 		</Entity>
 		<Entity uid="1012">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="859.13996" z="1671.8855"/>
+			<Position x="851.64686" z="1703.47986"/>
 			<Orientation y="-0.57212"/>
 			<Actor seed="22032"/>
 		</Entity>
 		<Entity uid="1013">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="853.13526" z="1678.86487"/>
+			<Position x="845.64216" z="1710.45923"/>
 			<Orientation y="-1.22323"/>
 			<Actor seed="34410"/>
 		</Entity>
 		<Entity uid="1014">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="846.57178" z="1679.85816"/>
+			<Position x="839.07868" z="1711.45252"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="39464"/>
 		</Entity>
 		<Entity uid="1015">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="848.8949" z="1682.22095"/>
+			<Position x="841.4018" z="1713.81531"/>
 			<Orientation y="1.26102"/>
 			<Actor seed="41066"/>
 		</Entity>
 		<Entity uid="1016">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="859.37684" z="1682.52857"/>
+			<Position x="851.88373" z="1714.12293"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="47490"/>
 		</Entity>
 		<Entity uid="1017">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="858.9488" z="1680.9397"/>
+			<Position x="851.4557" z="1712.53406"/>
 			<Orientation y="3.0811"/>
 			<Actor seed="39296"/>
 		</Entity>
 		<Entity uid="1018">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="856.60773" z="1677.99292"/>
+			<Position x="849.11463" z="1709.58729"/>
 			<Orientation y="-2.16866"/>
 			<Actor seed="60182"/>
 		</Entity>
 		<Entity uid="1019">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="851.4911" z="1676.69031"/>
+			<Position x="843.998" z="1708.28467"/>
 			<Orientation y="-2.94301"/>
 			<Actor seed="18312"/>
 		</Entity>
 		<Entity uid="1020">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="848.55982" z="1670.29017"/>
+			<Position x="841.06672" z="1701.88453"/>
 			<Orientation y="-1.528"/>
 			<Actor seed="19712"/>
 		</Entity>
 		<Entity uid="1021">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="841.03278" z="1674.91236"/>
+			<Position x="833.53968" z="1706.50672"/>
 			<Orientation y="0.36858"/>
 			<Actor seed="16646"/>
 		</Entity>
 		<Entity uid="1022">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="844.40864" z="1663.2765"/>
+			<Position x="836.91553" z="1694.87085"/>
 			<Orientation y="-1.93862"/>
 			<Actor seed="55554"/>
 		</Entity>
 		<Entity uid="1023">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="852.38923" z="1662.39356"/>
+			<Position x="844.89612" z="1693.98792"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="45254"/>
 		</Entity>
 		<Entity uid="1024">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="864.70777" z="1675.27015"/>
+			<Position x="857.21467" z="1706.86451"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="54962"/>
 		</Entity>
 		<Entity uid="1025">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="873.0672" z="1673.66407"/>
+			<Position x="865.5741" z="1705.25843"/>
 			<Orientation y="-2.01531"/>
 			<Actor seed="14374"/>
 		</Entity>
 		<Entity uid="1026">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="863.46009" z="1669.15113"/>
+			<Position x="855.96698" z="1700.74549"/>
 			<Orientation y="1.43879"/>
 			<Actor seed="35212"/>
 		</Entity>
 		<Entity uid="1027">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="869.04908" z="1684.06128"/>
+			<Position x="861.55597" z="1715.65564"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="58862"/>
 		</Entity>
 		<Entity uid="1028">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="863.73554" z="1681.9762"/>
+			<Position x="856.24244" z="1713.57056"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="18790"/>
 		</Entity>
@@ -8218,43 +8218,43 @@
 		</Entity>
 		<Entity uid="1479">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="850.74463" z="1717.03077"/>
+			<Position x="843.25153" z="1748.62513"/>
 			<Orientation y="-1.61402"/>
 			<Actor seed="17342"/>
 		</Entity>
 		<Entity uid="1480">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="844.01441" z="1716.16724"/>
+			<Position x="836.52131" z="1747.7616"/>
 			<Orientation y="-2.7781"/>
 			<Actor seed="55558"/>
 		</Entity>
 		<Entity uid="1481">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="838.75525" z="1705.77735"/>
+			<Position x="831.26215" z="1737.37171"/>
 			<Orientation y="-3.05208"/>
 			<Actor seed="14456"/>
 		</Entity>
 		<Entity uid="1482">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="825.9286" z="1671.33838"/>
+			<Position x="818.4355" z="1702.93274"/>
 			<Orientation y="-1.27781"/>
 			<Actor seed="51108"/>
 		</Entity>
 		<Entity uid="1483">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="816.58375" z="1670.47791"/>
+			<Position x="809.09064" z="1702.07227"/>
 			<Orientation y="-2.04436"/>
 			<Actor seed="28550"/>
 		</Entity>
 		<Entity uid="1484">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="855.70936" z="1672.85645"/>
+			<Position x="848.21625" z="1704.45081"/>
 			<Orientation y="-1.45458"/>
 			<Actor seed="56846"/>
 		</Entity>
 		<Entity uid="1485">
 			<Template>actor|geology/stone_medit_med.xml</Template>
-			<Position x="845.95301" z="1666.7793"/>
+			<Position x="838.4599" z="1698.37366"/>
 			<Orientation y="-3.13027"/>
 			<Actor seed="44234"/>
 		</Entity>

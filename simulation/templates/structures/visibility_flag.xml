@@ -21,7 +21,7 @@
     <AlwaysVisible>false</AlwaysVisible>
   </Vision>
   <VisualActor>
-    <Actor>props/special/common/waypoint_flag_factions.xml</Actor>
+    <Actor>props/special/common/visibility_flag.xml</Actor>
   </VisualActor> 
   <Selectable>
     <Overlay>

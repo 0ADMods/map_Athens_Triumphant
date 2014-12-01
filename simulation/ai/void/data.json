@@ -1,0 +1,7 @@
+{
+  "name": "Void Bot",
+  "description": "An empty bot, doing nothing. Use for triggers if the AI either can't handle triggers yet or you don't want the AI to interfere with what your triggers or storyline asks the entities to do.",
+  "moduleName" : "VOID",
+  "constructor": "VoidBot",
+  "useShared": true
+}

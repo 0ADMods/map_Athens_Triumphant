@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1021.51" y="139.93" z="1596.32"/>
-		<Rotation angle="-0.138095"/>
-		<Declination angle="0.610866"/>
+		<Position x="1002.03" y="77.5925" z="1609.59"/>
+		<Rotation angle="-0.4856"/>
+		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -16395,6 +16395,54 @@
 			<Position x="859.40741" z="1620.26966"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="64410"/>
+		</Entity>
+		<Entity uid="2857">
+			<Template>actor|props/flora/water_lillies.xml</Template>
+			<Position x="1012.45618" z="1686.63404"/>
+			<Orientation y="1.23098"/>
+			<Actor seed="37752"/>
+		</Entity>
+		<Entity uid="2858">
+			<Template>actor|props/flora/water_lillies.xml</Template>
+			<Position x="1029.39881" z="1692.2002"/>
+			<Orientation y="1.22458"/>
+			<Actor seed="29842"/>
+		</Entity>
+		<Entity uid="2859">
+			<Template>actor|props/flora/water_lillies.xml</Template>
+			<Position x="1017.26703" z="1700.94483"/>
+			<Orientation y="1.20513"/>
+			<Actor seed="17062"/>
+		</Entity>
+		<Entity uid="2860">
+			<Template>actor|props/flora/water_log.xml</Template>
+			<Position x="1017.57074" z="1689.70362"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32942"/>
+		</Entity>
+		<Entity uid="2861">
+			<Template>actor|props/flora/reeds_pond_dry.xml</Template>
+			<Position x="1010.55903" z="1685.19788"/>
+			<Orientation y="-0.79154"/>
+			<Actor seed="60034"/>
+		</Entity>
+		<Entity uid="2862">
+			<Template>actor|props/flora/reeds_pond_dry.xml</Template>
+			<Position x="1024.64551" z="1701.4358"/>
+			<Orientation y="-1.99518"/>
+			<Actor seed="16714"/>
+		</Entity>
+		<Entity uid="2863">
+			<Template>actor|props/flora/reeds_pond_dry.xml</Template>
+			<Position x="1023.42939" z="1685.0813"/>
+			<Orientation y="1.14135"/>
+			<Actor seed="9356"/>
+		</Entity>
+		<Entity uid="2864">
+			<Template>actor|props/flora/reeds_pond_dry.xml</Template>
+			<Position x="1039.41724" z="1694.2256"/>
+			<Orientation y="-1.03615"/>
+			<Actor seed="58714"/>
 		</Entity>
 	</Entities>
 	<Paths/>

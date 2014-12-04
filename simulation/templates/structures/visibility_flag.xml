@@ -22,6 +22,9 @@
   </Vision>
   <VisualActor>
     <Actor>props/special/common/visibility_flag.xml</Actor>
+    <SilhouetteDisplay>false</SilhouetteDisplay>
+    <SilhouetteOccluder>false</SilhouetteOccluder>
+    <VisibleInAtlasOnly>false</VisibleInAtlasOnly>
   </VisualActor> 
   <Selectable>
     <Overlay>
@@ -32,10 +35,4 @@
       </Outline>
     </Overlay>
   </Selectable>
-  <Visibility/>
-  <VisualActor>
-    <SilhouetteDisplay>false</SilhouetteDisplay>
-    <SilhouetteOccluder>false</SilhouetteOccluder>
-    <VisibleInAtlasOnly>false</VisibleInAtlasOnly>
-  </VisualActor>
 </Entity>

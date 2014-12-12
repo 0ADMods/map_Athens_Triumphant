@@ -15,10 +15,12 @@
     <DisableBlockMovement>false</DisableBlockMovement>
     <DisableBlockPathfinding>false</DisableBlockPathfinding>
   </Obstruction>
-  <Vision>
-    <Range>20</Range>
+  <Visibility>
     <RetainInFog>true</RetainInFog>
     <AlwaysVisible>false</AlwaysVisible>
+  </Visibility>
+  <Vision>
+    <Range>20</Range>
   </Vision>
   <VisualActor>
     <Actor>props/special/common/visibility_flag.xml</Actor>

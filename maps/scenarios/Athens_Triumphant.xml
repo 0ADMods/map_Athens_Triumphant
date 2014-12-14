@@ -33,9 +33,9 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="174.725" y="83.5699" z="833.27"/>
-		<Rotation angle="0.23513"/>
-		<Declination angle="0.700686"/>
+		<Position x="933.589" y="81.0493" z="1532.38"/>
+		<Rotation angle="-1.16902"/>
+		<Declination angle="0.719646"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
 {
@@ -16657,6 +16657,76 @@
 			<Position x="201.67025" z="915.24811"/>
 			<Orientation y="1.24277"/>
 			<Actor seed="18188"/>
+		</Entity>
+		<Entity uid="2911">
+			<Template>structures/athen_house</Template>
+			<Player>0</Player>
+			<Position x="155.88552" z="1280.72974"/>
+			<Orientation y="-1.23412"/>
+			<Actor seed="10524"/>
+		</Entity>
+		<Entity uid="2912">
+			<Template>structures/athen_farmstead</Template>
+			<Player>0</Player>
+			<Position x="166.37705" z="1312.46985"/>
+			<Orientation y="2.60912"/>
+			<Actor seed="56868"/>
+		</Entity>
+		<Entity uid="2913">
+			<Template>structures/athen_corral</Template>
+			<Player>0</Player>
+			<Position x="136.64481" z="1301.01734"/>
+			<Orientation y="1.03437"/>
+			<Actor seed="27588"/>
+		</Entity>
+		<Entity uid="2914">
+			<Template>other/column_doric_fallen</Template>
+			<Player>0</Player>
+			<Position x="155.28" z="1321.32056"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54194"/>
+		</Entity>
+		<Entity uid="2915">
+			<Template>other/fence_stone</Template>
+			<Player>0</Player>
+			<Position x="168.35535" z="1282.90467"/>
+			<Orientation y="-1.47347"/>
+			<Actor seed="45816"/>
+		</Entity>
+		<Entity uid="2916">
+			<Template>other/fence_stone</Template>
+			<Player>0</Player>
+			<Position x="180.88968" z="1308.72571"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45960"/>
+		</Entity>
+		<Entity uid="2919">
+			<Template>structures/hele_field</Template>
+			<Player>0</Player>
+			<Position x="119.53061" z="1278.39625"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="62224"/>
+		</Entity>
+		<Entity uid="2920">
+			<Template>structures/hele_field</Template>
+			<Player>0</Player>
+			<Position x="101.85021" z="1304.26026"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="45066"/>
+		</Entity>
+		<Entity uid="2923">
+			<Template>gaia/flora_tree_euro_beech_aut</Template>
+			<Player>0</Player>
+			<Position x="157.99837" z="1323.81324"/>
+			<Orientation y="-0.57473"/>
+			<Actor seed="17506"/>
+		</Entity>
+		<Entity uid="2926">
+			<Template>gaia/flora_tree_carob</Template>
+			<Player>0</Player>
+			<Position x="126.16854" z="1311.72193"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="50826"/>
 		</Entity>
 	</Entities>
 	<Paths/>

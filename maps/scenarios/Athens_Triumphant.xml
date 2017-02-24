@@ -233,7 +233,7 @@
 			<Orientation y="2.35621"/>
 		</Entity>
 		<Entity uid="70">
-			<Template>other/hellenic_royal_stoa</Template>
+			<Template>structures/athen_royal_stoa</Template>
 			<Player>0</Player>
 			<Position x="641.53815" z="1421.58936"/>
 			<Orientation y="-2.28205"/>
@@ -8780,77 +8780,77 @@
 			<Actor seed="12784"/>
 		</Entity>
 		<Entity uid="1575">
-			<Template>structures/hele_blacksmith</Template>
+			<Template>structures/athen_blacksmith</Template>
 			<Player>0</Player>
 			<Position x="1988.50672" z="1292.04627"/>
 			<Orientation y="-1.44877"/>
 			<Actor seed="65396"/>
 		</Entity>
 		<Entity uid="1576">
-			<Template>structures/hele_corral</Template>
+			<Template>structures/athen_corral</Template>
 			<Player>0</Player>
 			<Position x="1910.2262" z="1360.09046"/>
 			<Orientation y="-2.67576"/>
 			<Actor seed="64258"/>
 		</Entity>
 		<Entity uid="1577">
-			<Template>structures/hele_farmstead</Template>
+			<Template>structures/athen_farmstead</Template>
 			<Player>0</Player>
 			<Position x="1925.93445" z="1354.7787"/>
 			<Orientation y="1.69414"/>
 			<Actor seed="30398"/>
 		</Entity>
 		<Entity uid="1579">
-			<Template>structures/hele_market</Template>
+			<Template>structures/athen_market</Template>
 			<Player>0</Player>
 			<Position x="1915.57544" z="1241.2422"/>
 			<Orientation y="-0.01432"/>
 			<Actor seed="884"/>
 		</Entity>
 		<Entity uid="1580">
-			<Template>structures/hele_barracks</Template>
+			<Template>structures/athen_barracks</Template>
 			<Player>0</Player>
 			<Position x="1985.18262" z="1273.4242"/>
 			<Orientation y="-1.34687"/>
 			<Actor seed="27062"/>
 		</Entity>
 		<Entity uid="1581">
-			<Template>structures/hele_storehouse</Template>
+			<Template>structures/athen_storehouse</Template>
 			<Player>0</Player>
 			<Position x="1926.99585" z="1201.60022"/>
 			<Orientation y="-1.35261"/>
 			<Actor seed="7690"/>
 		</Entity>
 		<Entity uid="1582">
-			<Template>structures/hele_gymnasion</Template>
+			<Template>structures/athen_gymnasion</Template>
 			<Player>0</Player>
 			<Position x="2002.54712" z="1226.27491"/>
 			<Orientation y="-1.73813"/>
 			<Actor seed="30572"/>
 		</Entity>
 		<Entity uid="1583">
-			<Template>structures/hele_house</Template>
+			<Template>structures/athen_house</Template>
 			<Player>0</Player>
 			<Position x="1870.89966" z="1228.38331"/>
 			<Orientation y="-0.86135"/>
 			<Actor seed="23150"/>
 		</Entity>
 		<Entity uid="1584">
-			<Template>structures/hele_house</Template>
+			<Template>structures/athen_house</Template>
 			<Player>0</Player>
 			<Position x="1880.71973" z="1215.26551"/>
 			<Orientation y="1.3342"/>
 			<Actor seed="56134"/>
 		</Entity>
 		<Entity uid="1585">
-			<Template>structures/hele_house</Template>
+			<Template>structures/athen_house</Template>
 			<Player>0</Player>
 			<Position x="1899.69751" z="1274.41883"/>
 			<Orientation y="0.57241"/>
 			<Actor seed="58002"/>
 		</Entity>
 		<Entity uid="1586">
-			<Template>structures/hele_house</Template>
+			<Template>structures/athen_house</Template>
 			<Player>0</Player>
 			<Position x="1886.4319" z="1263.8086"/>
 			<Orientation y="2.90053"/>
@@ -14553,7 +14553,7 @@
 			<Actor seed="12650"/>
 		</Entity>
 		<Entity uid="2650">
-			<Template>structures/hele_defense_tower</Template>
+			<Template>structures/athen_defense_tower</Template>
 			<Player>0</Player>
 			<Position x="726.97327" z="1645.66834"/>
 			<Orientation y="2.2447"/>
@@ -14735,49 +14735,49 @@
 			<Actor seed="3238"/>
 		</Entity>
 		<Entity uid="2676">
-			<Template>structures/hele_field</Template>
+			<Template>structures/athen_field</Template>
 			<Player>0</Player>
 			<Position x="611.39948" z="1170.5459"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="10444"/>
 		</Entity>
 		<Entity uid="2677">
-			<Template>structures/hele_field</Template>
+			<Template>structures/athen_field</Template>
 			<Player>0</Player>
 			<Position x="588.53418" z="1148.51697"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="58776"/>
 		</Entity>
 		<Entity uid="2678">
-			<Template>structures/hele_field</Template>
+			<Template>structures/athen_field</Template>
 			<Player>0</Player>
 			<Position x="554.08869" z="1159.5127"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="51820"/>
 		</Entity>
 		<Entity uid="2679">
-			<Template>structures/hele_field</Template>
+			<Template>structures/athen_field</Template>
 			<Player>0</Player>
 			<Position x="565.91626" z="1123.88904"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="43566"/>
 		</Entity>
 		<Entity uid="2680">
-			<Template>structures/hele_field</Template>
+			<Template>structures/athen_field</Template>
 			<Player>0</Player>
 			<Position x="610.83356" z="1129.2472"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="16530"/>
 		</Entity>
 		<Entity uid="2681">
-			<Template>structures/hele_field</Template>
+			<Template>structures/athen_field</Template>
 			<Player>0</Player>
 			<Position x="581.99488" z="1112.0846"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="47944"/>
 		</Entity>
 		<Entity uid="2682">
-			<Template>structures/hele_field</Template>
+			<Template>structures/athen_field</Template>
 			<Player>0</Player>
 			<Position x="626.5301" z="1154.94385"/>
 			<Orientation y="2.35621"/>
@@ -16176,14 +16176,14 @@
 			<Actor seed="45960"/>
 		</Entity>
 		<Entity uid="2919">
-			<Template>structures/hele_field</Template>
+			<Template>structures/athen_field</Template>
 			<Player>0</Player>
 			<Position x="119.53061" z="1278.39625"/>
 			<Orientation y="2.35621"/>
 			<Actor seed="62224"/>
 		</Entity>
 		<Entity uid="2920">
-			<Template>structures/hele_field</Template>
+			<Template>structures/athen_field</Template>
 			<Player>0</Player>
 			<Position x="101.85021" z="1304.26026"/>
 			<Orientation y="2.35621"/>
